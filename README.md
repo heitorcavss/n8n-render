@@ -287,7 +287,7 @@ Manual rebuild: **Manual Deploy → Deploy latest commit** in the Render dashboa
 
 ## 👤 Author
 
-**Heitor Cabral** — Software Engineering student @ UFG · Backend / AI / IoT enthusiast
+**Heitor Cabral** — Software Engineering student @ IFG · Backend / AI / IoT enthusiast
 🔗 [LinkedIn](https://www.linkedin.com/in/heitor-cabral) · 💻 [GitHub](https://github.com/heitorcavss)
 
 ---
